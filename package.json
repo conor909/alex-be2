@@ -9,6 +9,7 @@
   },
   "scripts": {
     "build": "strapi build",
+    "copy:types": "node scripts/copy-types-to-frontend.js",
     "develop": "strapi develop",
     "start": "strapi start",
     "strapi": "strapi"

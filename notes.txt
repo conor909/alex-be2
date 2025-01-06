@@ -8,3 +8,9 @@ transfer
 
 api
 73a6085d30849f96c240e695b183054ce49c49eb54ce1fc91f769f4145c8a4b2f44a984a03e9837dd2fbd61b83177e04fb1189f5e49706d639ef268f16a42c13f13001d0deef6c178d0203a17c4c04a92503ac418a602049140a0579e263b771cd32aaa95032b9fa498bf026a5e8d94b459f38cdd2a9f64cf03591123642a58f
+
+Alexes local database is connected to prod through railway
+https://railway.com/template/strapi
+
+start locally with
+railway run yarn run develop
