@@ -11,6 +11,8 @@
     "build": "strapi build",
     "copy:types": "node scripts/copy-types-to-frontend.js",
     "develop": "strapi develop",
+    "pull": "yarn strapi transfer --from https://strapi-production-6f84.up.railway.app/admin",
+    "push": "yarn strapi transfer --to https://strapi-production-6f84.up.railway.app/admin",
     "start": "strapi start",
     "strapi": "strapi"
   },
